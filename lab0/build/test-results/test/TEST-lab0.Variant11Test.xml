@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant11Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-21T20:21:51" hostname="DESKTOP-UERTQ2H" time="0.014">
+  <properties/>
+  <testcase name="testCaseTask[0](WEST, -1, 2, SOUTH)" classname="lab0.Variant11Test" time="0.01"/>
+  <testcase name="testCaseTask[1](EAST, 2, 2, EAST)" classname="lab0.Variant11Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
